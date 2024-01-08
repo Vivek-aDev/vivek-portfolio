@@ -30,6 +30,7 @@
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);
+  text-decoration: none;
 }
 
 @media screen and (max-width: 830px) {
