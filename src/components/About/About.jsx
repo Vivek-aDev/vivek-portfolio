@@ -1,10 +1,10 @@
-import styles from './About.module.css'
+import styles from "./About.module.css";
 
 import { getImageUrl } from "../../utils";
 
 export const About = () => {
   return (
-    <section className={styles.container} id='about'>
+    <section className={styles.container} id="about">
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
@@ -18,12 +18,16 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I am a Frontend Developer with experience in building responsive
-                and optimized sites
+                With 1+ years of experience as a React frontend developer, I&apos;ve
+                successfully delivered projects with measurable impact. I
+                optimized performance, reducing load times by 20%. Integrated
+                cutting-edge technologies, enhancing user engagement by 15%. My
+                collaborative approach ensured timely delivery, completing
+                projects 10% ahead of schedule.
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
+          {/* <li className={styles.aboutItem}>
             <img src={getImageUrl('about/serverIcon.png')} alt="server icon" />
             <div className={styles.aboutItemText}>
                 <h3>Version Control</h3>
@@ -36,7 +40,7 @@ export const About = () => {
                 <h3>Bug fixing</h3>
                 <p>I have good score in fixing bug all the time.</p>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>

@@ -60,10 +60,12 @@
 .aboutItem h3{
     font-size: 25px;
     font-weight: 600;
+    margin-bottom: 10px;
 }
 
 .aboutItem p{
-    font-size: 25px;
+    font-size: 22px;
+    text-align: justify;
 }
 
 

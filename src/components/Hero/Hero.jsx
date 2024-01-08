@@ -9,7 +9,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I am Vivek</h1>
         <p className={styles.description}>
           I am a frontend Developer with 1 year plus experience in React and
-          NodeJs. React out if you want to hire!
+          NodeJs. Let&apos;s build impactful solutions together!
         </p>
         <a
           href="mailto: vivekananda.work2022@gmail.com"
