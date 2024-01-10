@@ -1,18 +1,18 @@
 [
     {
         "title": "Baarta",
-        "imageSrc": "projects/project.png",
-        "description": "This is the project description",
+        "imageSrc": "projects/socialmedia.png",
+        "description": "A fully functional Social media web app for social media geeks",
         "skills": ["React", "Javascript", "Node"],
-        "demo": "https://www.google.com",
-        "source": "https://www.github.com"
+        "demo": "https://baarta.netlify.app/",
+        "source": "https://github.com/Vivek-aDev/baarta"
     },
     {
         "title": "SuperHero Store",
-        "imageSrc": "projects/project.png",
-        "description": "This is the project description",
+        "imageSrc": "projects/ecommerce.png",
+        "description": "This is an e-commerce web app for superhero fans",
         "skills": ["React", "Javascript", "Node"],
-        "demo": "https://www.google.com",
-        "source": "https://www.github.com"
+        "demo": "https://superhero-stores-by-vivek.netlify.app/",
+        "source": "https://github.com/Vivek-aDev/superhero-store"
     }
 ]
