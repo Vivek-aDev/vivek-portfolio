@@ -21,6 +21,10 @@
   display: flex;
 }
 
+.menuBtn{
+  display: none;
+}
+
 .menuItems {
   display: flex;
   gap: 47px;
@@ -32,6 +36,7 @@
   color: var(--color-text);
   text-decoration: none;
 }
+
 
 @media screen and (max-width: 830px) {
   .navbar {
