@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Baarta",
+        "imageSrc": "projects/project.png",
+        "description": "This is the project description",
+        "skills": ["React", "Javascript", "Node"],
+        "demo": "https://www.google.com",
+        "source": "https://www.github.com"
+    },
+    {
+        "title": "SuperHero Store",
+        "imageSrc": "projects/project.png",
+        "description": "This is the project description",
+        "skills": ["React", "Javascript", "Node"],
+        "demo": "https://www.google.com",
+        "source": "https://www.github.com"
+    }
+]
