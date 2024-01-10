@@ -20,7 +20,7 @@ export const About = () => {
               <p>
                 With 1+ years of experience as a React frontend developer, I&apos;ve
                 successfully delivered projects with measurable impact. I
-                optimized performance, reducing load times by 20%. Integrated
+                optimized performance, reducing load times by 27%. Integrated
                 cutting-edge technologies, enhancing user engagement by 15%. My
                 collaborative approach ensured timely delivery, completing
                 projects 10% ahead of schedule.
