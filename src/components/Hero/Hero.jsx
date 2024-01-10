@@ -12,10 +12,12 @@ export const Hero = () => {
           NodeJs. Let&apos;s build impactful solutions together!
         </p>
         <a
-          href="mailto: vivekananda.work2022@gmail.com"
+          href="https://docs.google.com/document/d/1CZstJHrm5TtSnidH7zgGxkfOJAZwN5nY8tOJxxTLD5E/edit?usp=sharing"
           className={styles.contactBtn}
+          rel="noreferrer"
+          target="_blank"
         >
-          Contact Me
+          My Resume
         </a>
       </div>
       <img
