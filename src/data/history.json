@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Software Development Engineer",
+        "organisation": "Farmint",
+        "startDate": "June, 2022",
+        "endDate": "Sept, 2022",
+        "experience": ["Worked on Real time project", "Debugged and optimized existing code","Reduced load times by 27%","Utilized git for version control system", "Integreated REST API to fetch and display data in Real time"],
+        "imageSrc": "history/farmint.png"
+    }
+]
