@@ -12,7 +12,7 @@ export const Hero = () => {
           NodeJs. Let&apos;s build impactful solutions together!
         </p>
         <a
-          href="https://drive.google.com/file/d/1BES7w3FVp8djv-gouqZTC7AXnDCiYs2J/view?usp=sharing"
+          href="https://drive.google.com/file/d/1Jh5yI6zlWYrSjmSAW4iG4LxvnPn35Wig/view?usp=sharing"
           className={styles.contactBtn}
           rel="noreferrer"
           target="_blank"
